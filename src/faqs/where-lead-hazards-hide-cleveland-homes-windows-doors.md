@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Where are lead hazards most often found in Cleveland homes?
 description: Common locations of lead hazards in older Cleveland homes - windows, doors, stairs, and high-wear surfaces
 date: 2024-01-15
-tags: [cleveland, lead, hazards, locations]
+tags: [safety, maintenance, prevention, testing]
 short_answer: Lead hazards are found on surfaces children can chew or that get wear-and-tear -  windows, doors, stairs, railings, banisters, and porches in pre-1978 homes.
 ---
 <h2>Common lead hazard locations in Cleveland residential properties</h2>
@@ -22,4 +22,4 @@ short_answer: Lead hazards are found on surfaces children can chew or that get w
   <li>Clean frequently with <strong>wet methods</strong> and HEPA vacuums; avoid dry sweeping.</li>
   <li>Confirm results with <strong>clearance dust-wipe testing</strong>, especially at unit turn.</li>
 </ol>
-<p>Focusing on these locations reduces the greatest share of risk in Cleveland rentals and small multifamily buildings.</p>
+<p>Focusing on these locations reduces the greatest share of risk in Cleveland rentals and small multifamily buildings. <strong>Want to know if your property has these hazards?</strong> <a href="tel:2164400321" class="text-blue-600 hover:text-blue-800">Call or text (216) 440-0321</a> to schedule a thorough inspection that will identify all potential lead hazard locations in your property.</p>

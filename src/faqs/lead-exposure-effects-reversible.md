@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Are the effects of lead exposure reversible?
 description: Understanding the permanent nature of lead exposure effects and why prevention is critical in Cleveland
 date: 2024-01-15
-tags: [cleveland, lead, testing, health]
+tags: [testing, safety, prevention, maintenance, compliance]
 short_answer: No, lead exposure effects are not reversible. Once lead damages the brain and nervous system, the effects cannot be undone, making prevention crucial.
 ---
 <h2>Permanent neurological damage from lead exposure in Cleveland</h2>

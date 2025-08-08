@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Can lead be found in Cleveland's drinking water?
 description: Understanding lead risks in Cleveland's water supply and how to test for lead in drinking water
 date: 2024-01-15
-tags: [cleveland, lead, water, testing]
+tags: [testing, safety, prevention, professional-services]
 short_answer: Yes, lead can be found in drinking water from household plumbing systems, especially in homes built before 1986. Cleveland Water Department can help with testing services.
 ---
 <h2>Can lead be found in Cleveland’s drinking water?</h2>

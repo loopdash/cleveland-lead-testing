@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: How should I clean my home to reduce lead dust exposure?
 description: Safe cleaning practices for homes with potential lead hazards including wet cleaning methods and HEPA vacuums
 date: 2024-01-15
-tags: [cleveland, lead, cleaning, safety]
+tags: [safety, maintenance, prevention, clearance-testing]
 short_answer: Use wet cleaning with warm water and detergent. Avoid dry sweeping/dusting. Use HEPA vacuums, wash children's hands frequently, and focus on play areas.
 ---
 <h2>Safe lead dust cleaning methods and prevention strategies</h2>

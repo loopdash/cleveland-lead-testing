@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: What is lead abatement and when is it necessary?
 description: Understanding lead abatement processes and requirements for Cleveland homes with lead hazards
 date: 2024-01-15
-tags: [cleveland, lead, abatement, remediation]
+tags: [safety, maintenance, compliance, clearance-testing, professional-services]
 short_answer: Lead abatement permanently eliminates lead hazards through removal, replacement, or enclosure. Necessary when hazards can't be controlled through maintenance. Requires certified professionals.
 ---
 <h2>Lead abatement requirements and professional remediation in Cleveland</h2>

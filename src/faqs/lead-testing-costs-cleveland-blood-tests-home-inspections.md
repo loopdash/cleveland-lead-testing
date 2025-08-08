@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: How much does lead testing cost in Cleveland?
 description: Understanding the costs associated with lead testing in Cleveland including blood tests and home inspections
 date: 2024-01-15
-tags: [cleveland, lead, testing, costs]
+tags: [testing, safety, professional-services, compliance]
 short_answer: Blood lead testing is often covered by insurance. Home inspections range $200-$500. Free or reduced-cost testing available for qualifying families through Cleveland programs.
 ---
 <h2>Lead testing costs and professional services in Cleveland</h2>
@@ -20,4 +20,4 @@ short_answer: Blood lead testing is often covered by insurance. Home inspections
   <li>Bundle assessments across multiple units or during scheduled turns.</li>
   <li>Integrate testing into due diligence to price risk into acquisitions.</li>
 </ol>
-<p>A predictable testing budget helps keep Cleveland rentals safe, compliant, and consistently leased.</p>
+<p>A predictable testing budget helps keep Cleveland rentals safe, compliant, and consistently leased. <strong>Want to get an accurate cost estimate for your property?</strong> <a href="tel:2164400321" class="text-blue-600 hover:text-blue-800">Call or text (216) 440-0321</a> to schedule a professional assessment and receive a detailed quote for lead testing services.</p>

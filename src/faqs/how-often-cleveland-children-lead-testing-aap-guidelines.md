@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: How often should children in Cleveland be tested for lead?
 description: Recommended lead testing frequency for Cleveland children based on American Academy of Pediatrics guidelines
 date: 2024-01-15
-tags: [cleveland, lead, testing, children]
+tags: [testing, children, safety, prevention]
 short_answer: Test at 12 and 24 months, and 3-6 years if not previously tested. More frequent testing may be needed for children with elevated levels or in pre-1978 homes.
 ---
 <h2>Recommended lead testing frequency for Cleveland children</h2>

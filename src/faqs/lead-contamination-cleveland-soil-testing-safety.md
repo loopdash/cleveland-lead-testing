@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Is lead contamination a concern in Cleveland's soil?
 description: Understanding lead risks in Cleveland's soil and how to test for soil contamination around older homes
 date: 2024-01-15
-tags: [cleveland, lead, soil, contamination]
+tags: [testing, safety, prevention, maintenance]
 short_answer: Yes, lead contamination in soil is a concern, especially around older homes where paint has deteriorated. Children can ingest lead through hand-to-mouth contact while playing.
 ---
 <h2>Is lead contamination a concern in Cleveland’s soil?</h2>

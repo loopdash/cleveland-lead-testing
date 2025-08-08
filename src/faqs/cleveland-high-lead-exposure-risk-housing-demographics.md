@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Why is Cleveland particularly at risk for lead exposure?
 description: Understanding Cleveland's unique lead exposure risks due to older housing stock and demographic factors
 date: 2024-01-15
-tags: [cleveland, lead, risk, housing]
+tags: [testing, safety, prevention, compliance, professional-services]
 short_answer: Over 90% of Cleveland rental units were built before 1978 when lead paint was banned. Low-income renters of color face limited access to safe, affordable housing options.
 ---
 <h2>Why Cleveland faces elevated lead exposure risk</h2>

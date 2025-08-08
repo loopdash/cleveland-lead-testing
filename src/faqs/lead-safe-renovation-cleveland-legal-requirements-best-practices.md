@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: What should I know about lead-safe renovation in Cleveland?
 description: Guidelines for safe renovation in Cleveland homes with lead paint including legal requirements and contractor certification
 date: 2024-01-15
-tags: [cleveland, lead, renovation, safety]
+tags: [safety, maintenance, compliance, clearance-testing, professional-services]
 short_answer: Assume lead paint is present in pre-1978 homes. Lead-safe renovation practices are required by law. Hire certified contractors and ensure proper containment and cleanup.
 ---
 <h2>Lead-safe renovation requirements and best practices in Cleveland</h2>

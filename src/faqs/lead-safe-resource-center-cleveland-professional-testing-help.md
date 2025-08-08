@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: What is the Lead Safe Resource Center and how can it help?
 description: Understanding the role of the Lead Safe Resource Center in Cleveland and how they help residents with lead testing
 date: 2024-01-15
-tags: [cleveland, lead, resource center, assistance]
+tags: [testing, safety, professional-services, compliance, clearance-testing]
 short_answer: The Lead Safe Resource Center helps Cleveland residents find qualified lead risk assessors and provides guidance on lead safety and professional services.
 ---
 <h2>Professional lead testing and guidance services in Cleveland</h2>

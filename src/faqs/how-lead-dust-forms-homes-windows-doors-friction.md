@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: How does lead dust get created in homes?
 description: Understanding the process of lead dust generation from friction between painted surfaces
 date: 2024-01-15
-tags: [cleveland, lead, dust, exposure]
+tags: [safety, maintenance, prevention, testing]
 short_answer: Lead dust forms when painted surfaces rub together (windows, doors). Friction creates dust that can be inhaled or ingested, with just a teaspoon causing serious harm.
 ---
 <h2>Lead dust generation from paint deterioration and friction</h2>

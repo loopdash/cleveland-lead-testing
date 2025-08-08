@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Who is most at risk for lead exposure in Cleveland?
 description: Identifying high-risk populations for lead exposure in Cleveland, including children under 6 and low-income renters
 date: 2024-01-15
-tags: [cleveland, lead, risk, children]
+tags: [safety, children, prevention, testing, compliance]
 short_answer: Children under 6 are most at risk due to developing brains and hand-to-mouth behavior. Low-income renters of color face higher risk due to limited safe housing options.
 ---
 <h2>Vulnerable populations and lead exposure risk factors in Cleveland</h2>

@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: What are the symptoms of lead exposure in children?
 description: Recognizing signs of lead exposure in children including developmental delays, learning difficulties, and behavioral changes
 date: 2024-01-15
-tags: [cleveland, lead, symptoms, children]
+tags: [safety, children, testing, prevention]
 short_answer: Symptoms include developmental delays, learning difficulties, irritability, appetite loss, fatigue, abdominal pain, and seizures. Many children show no obvious signs.
 ---
 <h2>Lead exposure symptoms and developmental impacts in children</h2>

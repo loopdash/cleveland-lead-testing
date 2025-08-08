@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: What are landlords' responsibilities regarding lead in Cleveland?
 description: Understanding landlord obligations for lead safety in Cleveland rental properties and tenant rights
 date: 2024-01-15
-tags: [cleveland, lead, landlords, responsibilities]
+tags: [safety, maintenance, compliance, clearance-testing, professional-services]
 short_answer: Landlords must disclose lead hazards, maintain properties to prevent deterioration, and address hazards when identified. They cannot evict tenants for reporting lead concerns.
 ---
 <h2>What are landlords’ responsibilities regarding lead in Cleveland?</h2>

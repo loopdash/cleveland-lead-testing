@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: How much lead dust is dangerous?
 description: Understanding the small amount of lead dust that can cause serious harm - just a teaspoon (sugar packet size)
 date: 2024-01-15
-tags: [cleveland, lead, dust, safety]
+tags: [safety, testing, prevention, clearance-testing]
 short_answer: Less than a teaspoon of lead dust (sugar packet size) can cause serious, long-term harm. Even invisible amounts can be dangerous when ingested or inhaled.
 ---
 <h2>Dangerous lead dust levels and exposure thresholds</h2>
