@@ -7,6 +7,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/img')
   eleventyConfig.addPassthroughCopy('src/CNAME')
 
+  // Configure FAQ collection
+  eleventyConfig.addCollection("faqs", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/faqs/*.md");
+  });
+
 
   const {
     DateTime
