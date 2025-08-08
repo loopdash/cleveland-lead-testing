@@ -30,5 +30,8 @@
     "tailwindcss": "^3.4.3",
     "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "@quasibit/eleventy-plugin-sitemap": "^2.2.0"
   }
 }

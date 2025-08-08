@@ -1,5 +1,5 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-
+const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 module.exports = function(eleventyConfig) {
 
@@ -12,6 +12,11 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("src/faqs/*.md");
   });
 
+  eleventyConfig.addPlugin(sitemap, {
+    sitemap: {
+      hostname: "https://clevelandleadtesting.com",
+    },
+  });
 
   const {
     DateTime
