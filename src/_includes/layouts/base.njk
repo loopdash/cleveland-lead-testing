@@ -5,32 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="/assets/main.css" />
 
-    <script>  
-      // Remove this script if you don't need the dark mode toggle  
-      // On page load or when changing themes, best to add inline in `head` to avoid FOUC
-      if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        document.documentElement.classList.add('dark')
-        
-      } else {
-        document.documentElement.classList.remove('dark')
-      }
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M7ZNVSLLKT"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-      const toggleDarkMode = function(){
-        if (document.documentElement.classList.contains('dark')) {
-          document.documentElement.classList.remove('dark');
-          localStorage.theme = 'light';      
-        } else {
-          document.documentElement.classList.add('dark')
-          localStorage.theme = 'dark'
-        }
-      };   
-
-      const forgetPref = function(){
-        localStorage.removeItem('theme')
-        window.location.reload()
-      }
+      gtag('config', 'G-M7ZNVSLLKT');
     </script>
-
+    
+    <script defer data-domain="clevelandleadtesting.com" src="https://analytics.loopdash.com/js/script.js"></script>
   </head>
   <body class="dark:bg-zinc-800 dark:text-white">
     {% include "../components/navigation.njk" %}
