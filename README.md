@@ -62,7 +62,7 @@ npm run build
 The top navigation is the only *feature* in this starter and lives in `/src/_includes/components/navigation.njk`.  
 
 It looks for the eleventyNavigation object in pages and adds them to the navigation bar. It also checks whether the site's url is in the currently opened url and highlights the navigation item accordingly. This even works for subpages. So if you're on `/blog/post/` the **Blog** nav item will still be active.
-
+ 
 
 ### Adding links to the navigation
 Add the `eleventyNavigation` object to any page and it will appear in the navigation. Optionally set the order of your items.
