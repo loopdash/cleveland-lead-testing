@@ -1,0 +1,10 @@
+---
+title: FAQs
+layout: layouts/base.njk
+permalink: /faqs/
+eleventyNavigation:
+  key: FAQs
+  order: 2
+---
+{% set faqslist = collections.faqs %}
+{% include "components/faqslist.njk" %}

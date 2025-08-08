@@ -1,0 +1,36 @@
+---
+layout: layouts/base.njk
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "{{ title }}",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "{{ short_answer | safe }}"
+    }
+  }
+}
+</script>
+
+<article class="max-w-3xl mx-auto px-4 py-8">
+  <h1 class="text-3xl font-bold mb-4">{{ title }}</h1>
+  <div class="prose prose-lg">{{ content | safe }}</div>
+  {% if tags %}
+    <div class="mt-6">
+      {% for tag in tags %}
+        <span class="inline-block bg-gray-100 text-gray-800 text-xs font-normal mr-2 px-2.5 py-0.5 rounded">
+          {{ tag }}
+        </span>
+      {% endfor %}
+    </div>
+  {% endif %}
+</article>
+
+<div class="max-w-3xl mx-auto px-4">
+  {% include "components/similar-questions.njk" %}
+</div>
