@@ -8,9 +8,12 @@ eleventyNavigation:
 ---
 
 <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
-  <h1 class="inline-flex justify-between items-center py-1 pl-4 pr-4 mb-7 text-sm text-gray-700 bg-gray-100 rounded-full dark:bg-gray-800 dark:text-white dark:hover:bg-gray-700 text-xs bg-primary-600 rounded-full px-4 py-1.5 text-sm font-medium px-0">Cleveland Lead Inspection</h1>
+  <h1 class="inline-flex justify-between items-center py-1 pl-4 pr-4 mb-7 text-sm text-gray-700 bg-gray-100 rounded-full dark:bg-gray-800 dark:text-white dark:hover:bg-gray-700 text-xs bg-primary-600 rounded-full px-4 py-1.5 text-sm font-medium px-0">Cleveland Lead Inspection FAQs</h1>
   <h2 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Frequently Asked Questions About Lead Testing in Cleveland</h2>
   <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Get answers to common questions about lead testing, Lead Safe Certification, and protecting your family from lead exposure. Our comprehensive FAQ covers everything from costs and timelines to professional services and compliance requirements.</p>
 </div>
-{% set faqslist = collections.faqs %}
-{% include "components/faqslist.njk" %}
+
+<div class="py-8 px-4 mx-auto max-w-screen-lg lg:py-16 lg:px-12">
+  {% set faqslist = collections.faqs %}
+  {% include "components/faqslist.njk" %}
+</div>
