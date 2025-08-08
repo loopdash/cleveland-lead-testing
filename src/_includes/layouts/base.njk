@@ -1,14 +1,14 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>{{ title or "Cleveland Lead Testing - Professional Lead Inspection Services" }}</title>
+    <title>{{ 'Cleveland Lead Testing - ' + title if title else 'Cleveland Lead Testing - Professional Lead Inspection Services' }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- SEO Meta Tags -->
     <link rel="canonical" href="https://clevelandleadtesting.com{{ page.url or '/' }}">
-    <meta name="title" content="{{ title or 'Cleveland Lead Testing - Professional Lead Inspection Services' }}" />
+    <meta name="title" content="{{ 'Cleveland Lead Testing - ' + title if title else 'Cleveland Lead Testing - Professional Lead Inspection Services' }}" />
     <meta name="description" content="{{ description or 'Professional lead testing and inspection services in Cleveland. Get certified lead testing for your home or rental property. Call (216) 440-0321 for immediate assistance.' }}" />
-    <meta property="og:title" content="{{ title or 'Cleveland Lead Testing - Professional Lead Inspection Services' }}" />
+    <meta property="og:title" content="{{ 'Cleveland Lead Testing - ' + title if title else 'Cleveland Lead Testing - Professional Lead Inspection Services' }}" />
     <meta property="og:type" content="website" />
     <meta property="og:description" content="{{ description or 'Professional lead testing and inspection services in Cleveland. Get certified lead testing for your home or rental property. Call (216) 440-0321 for immediate assistance.' }}" />
     <meta property="og:url" content="https://clevelandleadtesting.com{{ page.url or '/' }}" />
